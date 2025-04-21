@@ -1,0 +1,11 @@
+> Wykrywanie kolizji to metoda analizy środowiska 3D pod kątem detekcji kolizji zachodzących między obiektami 
+>> Dzięki przypisaniu obiektowi 𝗸𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘂 𝘇𝗱𝗲𝗿𝘇𝗮𝗰𝘇𝗮 tworzymy w rzeczywistości niewidzialną sieć - odzwierdziedlającą jego kształt i wykrywającą dowolne kolizje z innymi 𝘇𝗱𝗲𝗿𝘇𝗮𝗰𝘇𝗮𝗺𝗶.
+
+W ŚRODOWISKU UNITY ISTNIEJĄ DWA ZASADNICZE RODZAJE ZDERZACZY (collider):
+1) (Kształty) podstawowe (primitives)
+[Podstawowe zderzacze] - skrzynki, koło, kule i kapsuły 
+Prosty zderzacz np. typu skrzynkowego ma właśnie taki kształt w środowisku Unity (bez względu na to jaki kształt ma rzeczywisty obiekt).
+------------------------------------------------------------------------------------------------------------------
+2) siatkowe (meshes)
+[Zderzacz siatkowy] - kształt obiektu 
+Zderzacz siatkowy wykorzystuje kształt obiektu do którego został przypisany dzięki temu jest bardziej szczegółowy i dokładny.

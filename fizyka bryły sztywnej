@@ -1,0 +1,3 @@
+> W silnikach gier nie istnieje założenie iż obiekty powinny podlegać prawom fizyki więc:
+- komponent fizyki bryły sztywnej jest przydzielany do każdego poruszającego się obiektu, który powinien pozostawać pod kontrolą 𝘀𝗶𝗹𝗻𝗶𝗸𝗮 𝗳𝗶𝘇𝘆𝗰𝘇𝗻𝗲𝗴𝗼.
+- 𝘀𝗶𝗹𝗻𝗶𝗸 𝗳𝗶𝘇𝘆𝗰𝘇𝗻𝘆 obsługuje tylko obiekty w ruchu co poprawia wydajność działania aplikacji oraz używa systemu dynamiki do tworzenia realistycznego ruchu takiego jak (tarcie, masa, ciężar, prędkość)

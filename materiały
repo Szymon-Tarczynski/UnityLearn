@@ -1,0 +1,9 @@
+> 𝗠𝗮𝘁𝗲𝗿𝗶𝗮ł𝘆 umożliwiają zdefiniowanie wizualnego wyglądu trójwymiarowego modelu (przyjmujące dowolną postać (kolory -> odbijające powierzchnie wykorzystujące obrazy))
+>> Pojedynczy materiał współpracuje z 𝗉𝗋𝗈𝖼𝖾𝖽𝗎𝗋ą 𝖼𝗂𝖾𝗇𝗂𝗈𝗐𝖺𝗇𝗂𝖺 (skryptem definiującym sposób renderowania materiału)
+
+ROZMIARY TEKSTUR (umożliwiające prawidłowe zaimportowanie do środowiska Unity):
+(𝟲𝟰 * 𝟲𝟰) px 
+(𝟭𝟮𝟴 * 𝟭𝟮𝟴) px
+(𝟮𝟱𝟲 * 𝟮𝟱𝟲) px
+(𝟱𝟭𝟮 * 𝟱𝟭𝟮) px
+(𝟭𝟬𝟮𝟰 * 𝟭𝟬𝟮𝟰) px

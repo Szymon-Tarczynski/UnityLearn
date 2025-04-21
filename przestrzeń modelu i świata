@@ -1,0 +1,4 @@
+* Punkt początkowy obiektu -> początek / punkt zerowy, czyli (0, 0, 0), gdyż świat w dowolnej aplikacji 3D jest technicznie nieskończony.
+- Wszystkie współrzędne obiektów w przestrzeni 3D odnoszą się do punktu zerowego
+- Do zdefiniowania współrzędnych danego obiektu w relacji do innego można użyć 𝗽𝗿𝘇𝗲𝘀𝘁𝗿𝘇𝗲𝗻𝗶 𝗼𝗯𝗶𝗲𝗸𝘁𝘂.
+> 𝖧𝗂𝖾𝗋𝖺𝗋𝖼𝗁𝗒 - przeciągnięcie jednego obiektu do innego (powiązanie typu NADRZĘDNY -> PODRZĘDNY), które powoduje że przeciągany obiekt staje się 𝗽𝗼𝘁𝗼𝗺𝗸𝗶𝗲𝗺 (jego współrzędne są wyznaczane względem obiektu rodzica)

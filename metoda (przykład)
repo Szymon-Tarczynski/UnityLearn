@@ -1,0 +1,3 @@
+1) utworzenie nowego obiektu
+2) Dodanie 𝗸𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘂 𝗯𝗿𝘆ł𝘆 𝘀𝘇𝘁𝘆𝘄𝗻𝗲𝗷 (jeżeli obiektem jest coś co się porusza), komponent ten posiada takie właściwości jak (masa, ciężar, rozciąganie, użycie określonych sił na obiekcie)
+3) > zmienna Physic Material - to komponent zderzacza definujący sposób oddziaływania na powierzchnie innych obiektów.

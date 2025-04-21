@@ -1,0 +1,13 @@
+Na współrzędne kartezjańskie składa się:
+> oś X (pozioma)
+> oś Y (pionowa)
+> oś Z (głębiowa)
+
+- które są używane do: 
+1) Opisywania wymiarów
+2) Opisywania wartości obrotu oraz położenia (w świecie trójwymiarowym)
+
+(3, 5, 3), czyli:
+(3) odległość 3 jednostek od punktu 0 na osi X
+(5) odległość 5 jednostek od punktu 0 [w górę] na osi Y | ⭡
+(3) odległość 3 jednostek od punktu 0 [do przodu] na osi Z | ⭢

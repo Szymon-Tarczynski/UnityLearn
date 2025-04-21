@@ -1,0 +1,6 @@
+> Kamery mogą być animowane lub przymocowane do postaci / obiektów
+>> Kamery są stosowane, aby nadawać efekty takie jak rozmycie ruchu lub oświetlenie
+- Pojedyncza kamera główna zawsze wyświetla to co widzi gracz, dlatego też przy tworzeniu nowej sceny środowisko Unity zawsze udostępnia obiekt -> (𝖬𝖺𝗂𝗇 𝖢𝖺𝗆𝖾𝗋𝖺)
+
+* Kamera w trybie 𝘱𝘳𝘰𝘫𝘦𝘬𝘤𝘫𝘪 𝘱𝘦𝘳𝘴𝘱𝘦𝘬𝘵𝘺𝘸𝘪𝘤𝘻𝘯𝘦𝘫 generuje obraz w trzech wymiarach (3D) - 𝗙𝗢𝗩 [kształt Piramidy]
+** Kamera w trybie 𝘱𝘳𝘰𝘫𝘦𝘬𝘤𝘫𝘪 𝘱𝘳𝘰𝘴𝘵𝘰𝘬𝘢̨𝘵𝘯𝘦𝘫 generuje obraz w dwóch wymiarach (2D) - 𝗙𝗢𝗩 [kształt Prostokąta]

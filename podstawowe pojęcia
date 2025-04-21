@@ -1,0 +1,13 @@
+> Obiekt gry posiada komponenty, które nadają obiektowi określone funkcjonalności np. ruch, fizykę, dźwięk czy wygląd.
+>> Komponenty składają się ze zmiennych (variables), które opisują zasadniczo jego właściwości lub zawierają ustawienia pozwalające nim sterować.
+
+
+                     [Obiekt gry]
+                          |
+     -----------------------------------------------
+      |                   |                      |
+[Transformacja]       [Rigidbody]          [Źródło dźwięku]
+      |                  |                       |
+ -----------      --------------------      ----------------
+  |        |        |      |       |          |           |
+Pozycja  Obrót    Skala   Masa    Opór      Głośność    Pętla

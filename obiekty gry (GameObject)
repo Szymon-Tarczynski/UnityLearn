@@ -1,0 +1,5 @@
+> Pewne zasoby pobrane z panelu 𝖯𝗋𝗈𝗃𝖾𝖼𝗍 (modele i prefabrykaty) stają się obiektami gry przez ich umieszczenie / lub ,,konkretyzowanie" w bieżącej scenie 
+>> Obiekty takie jak 𝘀𝘆𝘀𝘁𝗲𝗺𝘆 𝗰𝘇𝗮̨𝘀𝘁𝗲𝗸 i 𝗸𝘀𝘇𝘁𝗮ł𝘁𝘆 𝗽𝗼𝗱𝘀𝘁𝗮𝘄𝗼𝘄𝗲 mogą być umieszczane w scenie za pomocą przycisku 𝗖𝗿𝗲𝗮𝘁𝗲 w widoku 𝖧𝗂𝖾𝗋𝖺𝗋𝖼𝗁𝗒 lub przu użyciu opcji menu głównego 𝙶𝚊𝚖𝚎𝙾𝚋𝚓𝚎𝚌𝚝
+>>> Nowo utworzone obiekty zawierają przynajmniej jeden komponent 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺, przekazujący parametry opisane współrzędnymi (X, Y, Z) silnikowi Unity: położenie, obrót i skalę obiektu
+
+* Obiekty gry mogą być zagnieżdzone w widoku 𝖧𝗂𝖾𝗋𝖺𝗋𝖼𝗁𝗒 (tworzenie powiązań NADRZĘDNY -> PODRZĘDNY)

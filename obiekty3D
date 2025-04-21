@@ -1,0 +1,9 @@
+> Obiekty trójwymiarowe na najniższym poziomie, połączone są ze sobą z dwuwymiarowych kształtów zwanych 𝘄𝗶𝗲𝗹𝗼𝗸𝗮̨𝘁𝗮𝗺𝗶.
+
+>> Poprzez łączenie wielu związanych ze sobą 𝘄𝗶𝗲𝗹𝗼𝗸𝗮̨𝘁𝗼́𝘄 aplikacje modelujące 3D umożliwiają tworzenie złożonych kształtów (𝘀𝗶𝗮𝘁𝗲𝗸).
+>*> 𝗦𝗶𝗮𝘁𝗸𝗶 pełnią takie zadania jak np. definiowanie obiektu wykorzystywanego podczas wyznaczania kolizji
+>>> Trójkąty (𝚙𝚘𝚠𝚒𝚎𝚛𝚣𝚌𝚑𝚗𝚒𝚎) zbudowane są z trzech połączonych ze sobą 𝗸𝗿𝗮𝘄𝗲̨𝗱𝘇𝗶.
+>>>> Miejsce łączenia się krawędzi ze sobą to 𝘱𝘶𝘯𝘬𝘵𝘺 / 𝘄𝗶𝗲𝗿𝘇𝗰𝗵𝗼ł𝗸𝗶.
+
+* Dzięki wierzchołkom silniki gier mogą przeprowadzać obliczenia wyznaczające punkty zderzenia (𝗸𝗼𝗹𝗶𝘇𝗷𝗲 - komponent 𝖬𝖾𝗌𝗁 𝖢𝗈𝗅𝗅𝗂𝖽𝖾𝗋)
+liczba wielokątów = suma wielokątów w używanych modelach lub na poziomie całej gry (sceny)
